@@ -27,3 +27,6 @@
 [2024-05-04 16:38:30,595: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
 
 x==========x]
+[2024-05-04 18:05:34,526: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-05-04 18:05:34,530: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-04 18:05:34,532: INFO: common: created directory at: root]
